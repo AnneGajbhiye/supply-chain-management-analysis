@@ -1,2 +1,2 @@
 # supply-chain-management-analysis
-Dashboards using Excel, Power BI, Tableau and Queries using SQL
+Create Dashboards using Excel, Power BI, Tableau and Queries using SQL
